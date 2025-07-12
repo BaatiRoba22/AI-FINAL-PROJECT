@@ -1,5 +1,5 @@
 # AI-FINAL-PROJECT
-https://youtu.be/e8LABN1ef0o
+
 Week 8
 Project Title: AI-Powered Health Monitoring System
 
